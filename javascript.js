@@ -1,6 +1,8 @@
 
 
 
-function doSomething(){
-    
+function doSomething() {
+    const a = 5;
+
+    console.log(a);
 }
