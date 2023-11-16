@@ -1,6 +1,10 @@
 
 
 
-function doSomething(){
+function doSomethi(){
     
 }
+
+function letsDoSomething(){
+    
+}   
